@@ -1,0 +1,8 @@
+- Caminho do usuario
+
+- server -> Routes -> Controller -> Service -> Repositories -> Banco de Dados
+
+
+//Migration
+// Entidade -> Vai representar a tabela no banco de dados
+//Service -> Regras e validação das regras da aplicação
